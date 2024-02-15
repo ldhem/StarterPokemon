@@ -1,3 +1,4 @@
 body {
-    background-color: hwb(195 20% 41%);
+    background: rgb(168,255,120);
+background: linear-gradient(90deg, rgba(168,255,120,1) 20%, rgba(120,255,214,1) 80%);
 }
